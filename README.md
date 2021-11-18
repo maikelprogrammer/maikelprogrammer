@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maikelprogrammer
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python fullstack development
-- 💞️ I’m looking to collaborate on someine
+- 💞️ I’m looking to collaborate with someone
 - 📫 How to reach me msg me on insta @maikel_mgr_official
 
 <!---
