@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python fullstack development
 - 💞️ I’m looking to collaborate with someone
-- 📫 How to reach me msg me on insta @maikel_mgr_official
+- 📫 How to reach me, msg me on insta @mikey_crystal
 
 <!---
 maikelprogrammer/maikelprogrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
